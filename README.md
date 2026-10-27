@@ -1,4 +1,4 @@
-# awesome-chemical-safety
+# Context
 This repo follows the awesome-list software trend and is a curated collection of open resources for chemical security, dual-use chemistry, chemical risk, and chemical safety. There will inevitably be a lot of overlap with biosecurity but since there are already many reseources online tackling it, the core focuse here will be around chem. The focus is around science, evaluations, benchmarks, red teaming, safeguards, AI4science, and governance.
 
 ## Contents
